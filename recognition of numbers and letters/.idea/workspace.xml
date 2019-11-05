@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4382422e-07c0-437a-b17d-6c3604937488" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>double</find>
+      <find>cut</find>
+      <find>currentTimeMillis</find>
+      <find>userDir + File.separator + &quot;match-log&quot; + File.separator + currentTimeMillis + File.separator</find>
+      <find>urlcon</find>
+      <find>co</find>
+      <find>匹配成功</find>
+      <find>PNGImageWriter</find>
+      <find>JPEGImageWriter</find>
+      <find>.jpg</find>
+      <find>jpg</find>
+      <find>1569002646481</find>
+      <find>twoResourcesList</find>
+      <find>jpgBytes</find>
+      <find>JpgBytes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>byte</replace>
+      <replace>outputDir</replace>
+      <replace>co</replace>
+      <replace>con</replace>
+      <replace>匹配结果</replace>
+      <replace>crop</replace>
+      <replace>PNGImageWriter</replace>
+      <replace>.png</replace>
+      <replace>png</replace>
+      <replace>1569002825326</replace>
+      <replace>resourcesList</replace>
+      <replace>pngBytes</replace>
+      <replace>PngBytes</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tool/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Szl4ix7NRFWRCj3N14CiCKZgK6" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569257692017" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\test\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Vote">
+    <configuration name="ImageUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageUtils" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vote" />
+      <module name="test" />
+      <option name="PROGRAM_PARAMETERS" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Website" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Website" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Vote" />
+      <item itemvalue="Application.ImageUtils" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Website" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Vote" />
+        <item itemvalue="Application.ImageUtils" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Website" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\luke\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4382422e-07c0-437a-b17d-6c3604937488" name="Default Changelist" comment="" />
+      <created>1568901205847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568901205847</updated>
+      <workItem from="1568901207188" duration="5338000" />
+      <workItem from="1568940379601" duration="21371000" />
+      <workItem from="1568985773497" duration="20252000" />
+      <workItem from="1569030593441" duration="12247000" />
+      <workItem from="1569070960888" duration="916000" />
+      <workItem from="1569115233074" duration="326000" />
+      <workItem from="1569133140686" duration="1112000" />
+      <workItem from="1569200546063" duration="761000" />
+      <workItem from="1569221807222" duration="3343000" />
+      <workItem from="1569229787883" duration="487000" />
+      <workItem from="1569230384343" duration="53000" />
+      <workItem from="1569230599833" duration="47000" />
+      <workItem from="1569254762008" duration="2273000" />
+      <workItem from="1569286418249" duration="146000" />
+      <workItem from="1569319533839" duration="997000" />
+      <workItem from="1569427473690" duration="665000" />
+      <workItem from="1569459214839" duration="8000" />
+      <workItem from="1569556636173" duration="3123000" />
+      <workItem from="1570676159728" duration="57000" />
+      <workItem from="1571207286940" duration="609000" />
+      <workItem from="1572574120370" duration="2171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
